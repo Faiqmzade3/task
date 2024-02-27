@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+      
+      .first  {
+        background-color: black;
+        color: white !important;
+        padding: 5px 4rem 20px;
+       margin:0;
+       
+      }
+    
+      .second{
+        background-color: rgba(52, 112, 224, 0.781);
+text-align: center;
+padding: 5rem 0rem;
+color: white;
+
+
+      }
+      .second h2 {
+        margin: 20px;
+        font-size: 15px; 
+    }
+    .second h1 {
+        font-size: 25px;
+        font-family: sans-serif; 
+    }
+    .second h3 {
+     
+        padding:  15px 20px;
+    }
+   .three{
+    background-color: white;
+    text-align: center;
+    margin-left: 0; 
+    margin-right: 5px;
+   }
+   
+   
+    .three h1{
+    padding: 10px;
+    margin-right: 100px;
+   font-size: 20px; 
+   }
+   .three p {
+font-size: 18px;
+
+   }
+   .three h3{
+    font-size: 18px;
+    padding: 5px;
+   }
+   .three h4{
+    font-size: 18px;
+    padding: 5px;
+   }
+   .three h5{
+    font-size: 18px;
+    padding: 5px;
+   }
+   .three h6{
+    font-size: 18px;
+    padding: 5px;
+   }
+   .four{
+    text-align: center;
+    padding: 100px;
+   }
+   .five{
+    text-align: center;
+    padding: 100px;
+   }
